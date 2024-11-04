@@ -1,5 +1,3 @@
-# image-processing-cpp
-
 # Image Processing in C++
 
 This repository contains a series of image processing exercises implemented in C++. These exercises cover fundamental techniques and operations in image processing, such as color space transformations, histogram modifications, frequency domain filtering, convolution, morphological operations, and shape analysis. This project serves as a comprehensive exploration of various image processing tasks, ideal for both learning and practical applications.
